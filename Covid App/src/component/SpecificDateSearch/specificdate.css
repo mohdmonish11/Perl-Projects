@@ -1,0 +1,20 @@
+.specific-date-main{
+  margin: 20px;
+  padding: 10px;
+}
+.submit-button{
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+  text-transform: uppercase;
+}
+.specificdate{
+  display: inline-block;
+  text-align: justify;
+  justify-content: space-around;
+  margin: 20px;
+  padding: 10px;
+  font-size: 25px;
+  font-weight: 500;
+
+}

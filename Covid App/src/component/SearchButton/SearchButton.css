@@ -1,0 +1,18 @@
+.container{
+  text-align: center;
+  margin: 20px;
+  padding: 10px; 
+}
+
+.column-left{ 
+  margin-top: 20px;
+  float: left;
+  width: 50%; 
+}
+
+.column-right{
+  margin-top: 20px;
+  float: right; 
+  width: 50%; 
+}
+
